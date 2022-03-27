@@ -1,7 +1,7 @@
 ---
 # Default configuration
 
-title: "Dashboard"
+title: "Gaby's Dashboard"
 subtitle: "Homer"
 
 header: true
@@ -16,7 +16,7 @@ defaults:
   # auto, light, dark
   colorTheme: auto
 
-theme: default
+theme: dark
 colors:
   light:
     highlight-primary: "#3367d6"
